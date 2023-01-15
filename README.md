@@ -1,2 +1,2 @@
 # Lovely-Budgerigars
-Basic HTML webpage that I'm coding with my FreeCodeCamp Responsive Web Design course knowledge. This is a clone of "CatPhotoApp" code exercising webpage which can be found at FreeCodeCamp Responsive Web Design course.
+This web page has been developed purely for exercise purposes, with knowledge learned from FreeCodeCamp's Responsive Web Design Certification Course and inspired by the CatPhotoApp web page at FreeCodeCamp. Images have been taken from pixabay.com. How the project is developed can be observed by checking the commits. Thanks for visiting.
